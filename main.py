@@ -67,5 +67,5 @@ cv2.putText(img, f'Grade: {result}%', (10, 50), cv2.FONT_HERSHEY_COMPLEX, 2, (0,
 
 # grading, correct ..,
 img = cv2.resize(img, (800, 800))
-cv2.imshow("imgContours", img)
+cv2.imshow("image", img)
 cv2.waitKey(0)

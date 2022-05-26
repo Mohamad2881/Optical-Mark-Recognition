@@ -1,5 +1,5 @@
 # Optical-Mark-Recognition
-simpple omr grading system that marks the grades of an exam based on predifined answers (CSV file) and save the user answers into a csv file.
+simple omr grading system that marks the grades of an exam based on predifined answers (CSV file) and save the user answers into a csv file.
 
 ## Sample Output
 
